@@ -130,19 +130,21 @@ body {
 }
 .contacts-form {
   width: 100%;
-  padding: 140px 100px;
+  padding: 140px 92px;
 }
 
 .contacts-inner {
   background-color: #574b63;
   color: #fff;
 }
-.contact-title {
+.contact-titel {
   margin: 0px 0px 60px;
   text-transform: uppercase;
+  font-weight: 700;
   font-size: 32px;
   line-height: 39px;
 }
+
 .contact-input {
   padding: 10px 0px;
   border: none;
@@ -172,4 +174,5 @@ button {
   border-radius: 30px;
   padding: 16px 81px;
   font-weight: 400;
+  cursor: pointer;
 }
